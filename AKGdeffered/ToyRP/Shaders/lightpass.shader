@@ -126,6 +126,7 @@ Shader "ToyRP/lightpass"
                     color += indirectLight;
                     color += emission;
                     color*=shadow;  //有问题
+                    color=indirectLight;
                     
                     
                     
