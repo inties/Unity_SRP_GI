@@ -1,0 +1,2 @@
+# Unity_SRP_GI
+准备实现202提到的GI算法，RSM，SSDO，SSR，VLP，VXGI
